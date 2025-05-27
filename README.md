@@ -1,12 +1,9 @@
 # SQL_DataEngineering_Proj
-2024 Capstone Project for Project SPARTA
+## This is my submitted 2024 Capstone Project for Project SPARTA from "Development Academy of the Philippines"
 
-DataViz - sample visualization after preprocessing data.
-
-SQL- queries that improved the analytics process.
-
-OpenstatPSA - dataset from the Philippine Statistics Authority.
-
-SPCapstone004_KJCacao- pdf file documenting the capstone project.
-
-Date modified: 04 May 2025
+## Terminology
+DataViz - sample visualization after preprocessing data.<br>
+SQL- queries that improved the analytics process.<br>
+OpenstatPSA - dataset from the Philippine Statistics Authority.<br>
+SPCapstone004_KJCacao- pdf file documenting the capstone project.<br>
+Date modified: 28 May 2025
