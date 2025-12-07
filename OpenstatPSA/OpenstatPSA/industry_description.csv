@@ -1,0 +1,894 @@
+id,industry_desc,ind_code
+1,Slaughtering and meat packing,151
+2,Production processing and preserving of meat and meat products,152
+3,Canning/packing of fish and other marine products,153
+4,Drying of fish and other marine products,154
+5,Smoking of fish and other marine products,155
+6,Manufacture of fish paste (bagoong) and fish sauce(patis),156
+7,Processing of seaweeds; manufacture of agar-agar or carageenan,157
+8,Production of fishmeal/prawn feeds,158
+9,"Manufacture of unprepared animal feeds from fish, crustaceans and mollusks and other aquatic animals",159
+10,"Processing, preserving and canning of fish, crustacean and mollusks, n.e.c. manufacture of fishball, etc.",1510
+11,Canning/packing and preserving of fruits and fruit juices,1511
+12,Canning/packing and preserving of vegetables and vegetable juices,1512
+13,Manufacture of fruit and vegetable sauces (e.g. tomato sauce and paste),1513
+14,Quick-freezing of fruits and vegetables,1514
+15,Roasting of nut or manufacture of nut foods and pastes,1515
+16,"Manufacture of perishable prepared foods of fruit and vegetables, such as: salad, peeled or cut vegetables, tofu (bean curd)",1516
+17,"Processing and preserving of fruits and vegetables, n.e.c.",1517
+18,Manufacture of virgin coconut oil,1518
+19,Manufacture of desiccated coconut,1519
+20,Manufacture of nata de coco,1520
+21,"Production of crude vegetable oil, cake and meals, other than virgin coconut oil (see class 1041)",1521
+22,Manufacture of refined coconut and other vegetable oil (including corn oil) and margarine,1522
+23,"Manufacture of unprepared animal feeds from vegetable, animal oils and fats",1523
+24,"Manufacture of vegetable and animal oil and fats, n.e.c.",1524
+25,Processing of fresh milk and cream,1525
+26,"Manufacture of powdered milk (except for infants) and condensed or evaporated milk (filled, combined or reconstituted)",1526
+27,Manufacture of infants' powdered milk,1527
+28,"Manufacture of butter, cheese and curd",1528
+29,"Manufacture of ice cream and sherbet, ice drop, ice candy and other flavored ices",1529
+30,Manufacture of milk-based infants' and dietetic foods,1530
+31,"Manufacture of dairy products, n.e.c.",1531
+32,Rice/corn milling,1532
+33,Cassava flour milling,1533
+34,Flour milling except cassava flour milling,1534
+35,"Manufacture of cereal breakfast foods obtained by roasting or swelling, etc.",1535
+36,Manufacture of unprepared animal feeds from grain milling residues,1536
+37,"Manufacture of flour mixes and prepared blended flour and dough for bread, cakes, biscuits or pancakes",1537
+38,"Manufacture of grain and vegetable mill products, n.e.c.",1538
+39,Manufacture of starches and starch products,1539
+40,"Baking of bread, cakes, pastries, pies and similar 'perishable' bakery products, including hopia and doughnut making",1540
+41,"Baking of biscuits cookies, crackers, pretzels and similar dry bakery products",1541
+42,Manufacture of ice cream cones (apa) and wafers (barquillos),1542
+43,"Manufacture of snack products such as corn curls, wheat crunchies and similar products",1543
+44,Sugarcane milling,1544
+45,Sugar refining,1545
+46,Manufacture of muscovado sugar not carried on in the farm,1546
+47,"Manufacture of sugar, n.e.c.",1547
+48,Manufacture of chocolate and cocoa products including chocolate candies,1548
+49,Manufacture of candies (excluding chocolate candies) and chewing gum,1549
+50,Manufactur e of popcorn and poprice,1550
+51,"Manufacture of chocolate and sugar confectionery products, n.e.c.",1551
+52,"Manufacture of macaroni, noodles, couscous and similar farinaceous products",1552
+53,Manufacture of prepared meals and dishes,1553
+54,Manufacture of food supplements from herbs and other plants,1554
+55,Coffee roasting and processing,1555
+56,"Manufacture of herb from drying and further extraction ( e.g. banaba, ampalaya, moringa (malunggay), sambong, lagundi etc.)",1556
+57,"Manufacture of ice, except dry ice",1557
+58,Manufacture of infant or dietetic foods containing homogenized ingredients,1558
+59,Egg processing including fertilized egg (balut) and salted eggs,1559
+60,Manufacture of flavoring extracts and food coloring,1560
+61,"Manufacture of mayonnaise, salad dressing, sandwich spread and similar products",1561
+62,Manufacture of vinegar,1562
+63,"Manufacture of food products, n.e.c.",1563
+64,Manufacture of prepared animal feeds,1564
+65,"Distilling, rectifying and blending of spirits",1565
+66,Fruit wine manufacturing,1566
+67,"Wine manufacturing, n.e.c.",1567
+68,Manufacture of malt liquors and malt,1568
+69,"Manufacture of soft drinks except drinks flavored with fruit juices, syrups or other materials",1569
+70,"Manufacture of drinks flavored with fruit juices, syrups or other materials",1570
+71,Manufacture of bottled water,1571
+72,Manufacture of sports and energy drink,1572
+73,"Manufacture of other beverages, n.e.c.",1573
+74,Manufacture of cigarettes,1574
+75,Manufacture of cigars,1575
+76,"Manufacture of chewing and smoking tobacco, snuff",1576
+77,Curing and redrying tobacco leaves,1577
+78,Spinning,1578
+79,"Preparation of textiles, n.e.c.",1579
+80,Weavi ng of textiles,1580
+81,Finishing of textiles,1581
+82,Preparation and finishing of textiles (integrated),1582
+83,Manufacture of knitted and crocheted fabrics,1583
+84,Manufacture of textile industrial bags,1584
+85,Manufacture of made-up textile goods for house furnishings,1585
+86,Manufacture of canvas products,1586
+87,"Manufacture of made-up textile articles, except wearing apparel, n.e.c.",1587
+88,"Manufacture of carpets and rugs, except mats of textile materials",1588
+89,Manufacture of mats (including mattings) of textile materials,1589
+90,"Manufacture of cordage, rope, and twine",1590
+91,"Manufacture of fishing nets and other nettings, (excluding mosquito and hairnets)",1591
+92,"Manufacture of products of cordage, rope and twine products",1592
+93,Manufacture of embroidered fabrics,1593
+94,"Manufacture of narrow fabrics, laces, tulles and other net fabrics",1594
+95,"Manufacture of fabrics, impregnated, coated, covered or laminated with plastic",1595
+96,"Manufacture of fabrics, impregnated, coated, covered or laminated other than with plastic and rubber",1596
+97,"Manufacture of fiber batting, padding and upholstery filling including coir",1597
+98,"Manufacture of miscellaneous textiles, n.e.c.",1598
+99,Men's and boys' garment manufacturing,1599
+100,Women's and girls' and babies' garment manufacturing,15100
+101,Ready-made embroidered garments manufacturing,15101
+102,"Manufacture of hats, gloves, handkerchiefs, neckwear and belts regardless of material",15102
+103,"Manufacture of wearing apparel, n.e.c",15103
+104,Custom tailoring,15104
+105,Custom dressmaking,15105
+106,Manufacture of knitted and crocheted apparel,15106
+107,"Manufacture of knitted or crocheted hosiery, underwear and outerwear when knitted o r crocheted directly into shape",15107
+108,"Manufacture of knitted and crocheted articles, n.e.c.",15108
+109,Tanning and dressing of leather,15109
+110,"Manufacture of luggage, handbags and wallets of leather and imitation leather",15110
+111,"Manufature of products of leather and imitation leather, n.e.c.",15111
+112,Manufacture of leather shoes,15112
+113,Manufacture of rubber shoes,15113
+114,Manufacture of plastic shoes,15114
+115,Manufacture of shoes made of textile materials with applied soles,15115
+116,Manufacture of wooden footwear and accessories,15116
+117,Manufacture of rubber slippers,15117
+118,"Manufacture of slippers and sandals, other than rubber",15118
+119,Manufacture of leather parts of footwear,15119
+120,"Manufacture of other footwear, n.e.c.",15120
+121,Manufacture of rough lumber,15121
+122,Manufacture of worked lumber,15122
+123,Wood preserving and drying,15123
+124,"Sawmilling and planing of wood products, n.e.c.",15124
+125,Manufacture of veneer sheets and plywood,15125
+126,"Manufacture of laminboard, particle board and other panels and board",15126
+127,"Manufacture of wooden window and door screens, shades and venetian blinds",15127
+128,Manufacture of other builders' carpentry and joinery; millworking,15128
+129,Manufacture of wooden containers,15129
+130,Manufacture of wood carvings,15130
+131,Manufacture of charcoal outside the forest,15131
+132,Manufacture of wooden wares,15132
+133,Manufacture of rattan and cane containers,15133
+134,"Manufacture of sawali, nipa and split canes",15134
+135,Manufacture of small cane wares,15135
+136,"Manufacture of articles of cork, straw and plaiting materials",15136
+137,"Manufacture other products of bamboo, cane, rattan and the like, and plaiting materials except furniture, n.e.c.",15137
+138,"Manufacture of other products of wood; manufacture of articles of cork and plaiting materials, except furniture, n.e .c.",15138
+139,"Integrated pulp,paper and paperboard milling",15139
+140,Pulp milling,15140
+141,Paper and paperboard milling,15141
+142,Manufacture of hand-made paper,15142
+143,"Manufacture of pulp, paper and paperboard, n.e.c.",15143
+144,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard,15144
+145,Manufacture of household and personal hygiene paper and cellulose wadding products,15145
+146,"Manufacture of wadding of textile materials and articles of wadding (e.g. sanitary towels, tampons, etc.)",15146
+147,Manufacture of other articles of paper,15147
+148,Manufacture of other articles of paperboard,15148
+149,Printing,15149
+150,"Electrotyping, stereotyping and photoengraving",15150
+151,Bookbinding and related work,15151
+152,"Service activities related to printing, n.e.c.",15152
+153,Reproduction of video and computer tapes from mastercopies,15153
+154,"Reproduction of floppy, hard or compact disks",15154
+155,Film and video reproduction,15155
+156,Manufacture of refined petroleum products,15156
+157,Manufacture of other fuel products,15157
+158,Manufacture of ethanol,15158
+159,Manufacture of industrial (compressed and liquefied) gases,15159
+160,Manufacture of inorganic salts and compounds,15160
+161,Manufacture of ethyl alcohol,15161
+162,Manufacture of alcohol except ethyl/ethanol,15162
+163,"Manufacture of inorganic acids, alkalis and chlorine",15163
+164,Manufacture of organic acids and organic compounds,15164
+165,"Manufacture of basic chemicals, except fertilizers and nitrogen compounds, n.e.c.",15165
+166,Manufacture of fertilizers and nitrogen compounds,15166
+167,Manufacture of plastic synthetic resins,15167
+168,Manufacture of plastic materials except man-made fiber and glass fiber,15168
+169,Manufacture of pesticides and other agro-chemical products,15169
+170,Manufacture of paints,15170
+171,"Manufacture of varnishes, lacquers, shellac and stains",15171
+172,"Manufacture of paint removers, thinners, and brush cleaners",15172
+173,Manufacture of pigments and other coloring matter of a kind used in the manufacture of paints or by artists or other painters,15173
+174,Manufacture of printing ink,15174
+175,"Manufacture of paint products, n.e.c.",15175
+176,Manufacture of soap and detergents,15176
+177,"Manufacture of cleaning preparations, except soap and detergents",15177
+178,Manufacture of waxes and polishing preparations,15178
+179,"Manufacture of perfumes, cosmetics and other toilet preparations",15179
+180,"Manufacture of explosives, fireworks and firecrackers",15180
+181,Manufacture of matches,15181
+182,Manufacture of writing and drawing ink,15182
+183,Manufacture of glues and adhesives,15183
+184,Manufacture of activated carbon,15184
+185,"Manufacture of miscellaneous chemical products, n.e.c.",15185
+186,Manufacture of synthetic or artificial filament yarn,15186
+187,"Manufacture of man-made filament tow or staple fibers, except glass fiber",15187
+188,"Manufacture of drugs and medicines including biological products such as bacterial and virus vaccines, sera and plasma",15188
+189,"Manufacture of surgical dressings, medicated wadding , fracture bandages, catgut, and other prepared sutures",15189
+190,Manufacture of rubber tires (including parts) and tubes,15190
+191,Retreading and rebuilding of tires,15191
+192,Manufacture of rubber garments,15192
+193,"Manufacture of industrial and other molded rubber products, excluding tires and tubes",15193
+194,"Manufacture of other rubber products, n.e.c.",15194
+195,"Manufacture of plastic articles for packing goods (e.g. boxes, bags, sacks, etc)",15195
+196,Manu facture of plastic household wares,15196
+197,Manufacture of plastic furniture fittings,15197
+198,Manufacture of plastic pipes and tubes,15198
+199,"Manufacture of other plastic, industrial /office/school supplies",15199
+200,"Manufacture of primary plastic products (e.g. sheets, film, plates, etc.)",15200
+201,Manufacture of linoleum and hard surface floor coverings,15201
+202,"Manufacture of plastic window and door screen, shades and venetian blinds",15202
+203,"Manufacture of plastics products, n.e.c.",15203
+204,Manufacture of flat glass (including float glass),15204
+205,Manufacture of glass containers,15205
+206,Manufacture of glass fibers (including glass wool) and yarn of glass fibers,15206
+207,"Manufacture of glass and glass products, n.e.c.",15207
+208,Manufacture of refractory products,15208
+209,Manufacture of clay building materials,15209
+210,Manufacture of vitreous china tableware and other kitchen articles of a kind commonly used for domestic or toilet purposes,15210
+211,"Manufacture of articles of porcelain or china, stoneware, earthenware, imitation porcelain or common pottery",15211
+212,Manufacture of coarse clay products,15212
+213,"Manufacture of sanitary ware, vitreous china plumbing fittings and fixtures",15213
+214,"Manufacture of other porcelain and ceramic products, n.e.c.",15214
+215,Manufacture of cement,15215
+216,Manufacture of lime,15216
+217,Manufacture of structural concrete products,15217
+218,"Manufacture of articles of concrete, cement and plaster, n.e.c.",15218
+219,"Cutting, shaping and finishing of stone",15219
+220,Manufacture of asphalt products,15220
+221,Manufacture of asbestos products,15221
+222,Manufacture of marble products,15222
+223,Manufacture of abrasive products,15223
+224,"Manufacture of miscellaneous non-metallic mineral products, n.e.c.",15224
+225,Operation of blast furnaces and steel making furnaces,15225
+226,Operation of rolling mills,15226
+227,"Pipes and tubes manufacturing, iron or steel",15227
+228,Manufacture of pipe fittings of iron or steel,15228
+229,"Manufacture of galvanized steel sheets, tinplates and other coated metal products made in steel works or rolling mills",15229
+230,"Operation of steel works and rolling mills, n.e.c.",15230
+231,Gold and other precious metal refining,15231
+232,"Non-ferrous smelting and refining , except precious metals",15232
+233,"Non-ferrous rolling, drawing and extrusion mills",15233
+234,Manufacture of pipe fittings of non-ferrous metals,15234
+235,"Manufacture of basic precious and other non-ferrous metals, n.e.c.",15235
+236,Casting/foundry of iron,15236
+237,Casting/foundry of steel,15237
+238,Aluminum and aluminum base alloy casting,15238
+239,"Copper and copper base alloy (brass, bronze) casting",15239
+240,Zinc and zinc alloy casting,15240
+241,"Casting of non-ferrous metal, n.e.c.",15241
+242,"Manufacture of structural steel products and metal components of bridges, smoke stacks and buildings",15242
+243,"Manufacture of other architectural and related metal work (e.g., doors, windows, shutters, gates, etc.)",15243
+244,"Manufacture of structural metal products, n.e.c.",15244
+245,"Manufacture of tanks, reservoirs and containers of metal",15245
+246,"Manufacture of steam generators, except central heating hot water boilers",15246
+247,Manufacture of small arms and accessories,15247
+248,"Manufacture of weapons and ammunitions, n.e.c.",15248
+249,"Forging, pressing, stamping and roll-forming of metal products",15249
+250,Powder metallurgy,15250
+251,Treatment and coating of metals; machining,15251
+252,Manufacture of cutlery,15252
+253,Manufacture of hand tools,15253
+254,Manufacture of general hardware,15254
+255,Manufacture of blacksmithing tools and welding shop operation,15255
+256,Manufacture of molding boxes for metal foundry,15256
+257,Manufacture of metal containers used for the packing or conveyance of goods,15257
+258,"Manufacture of wire nails, not in steel rolling",15258
+259,Manufacture of fa bricated wire products,15259
+260,Manufacture of small hand-operated kitchen appliances,15260
+261,Manufacture of metal sanitary ware and plumbing fixtures,15261
+262,"Manufacture of needles (except for knitting and sewing machines), pins and fasteners including zippers",15262
+263,"Manufacture of aluminum window and door screens, shades and venetian blinds",15263
+264,"Manufacture of miscellaneous fabricated metal products, n.e.c.",15264
+265,Manufacture of electronic valves and tubes,15265
+266,Manufacture of semi-conductor devices and other electronic components,15266
+267,Manufacture of computers and peripheral equipment and accessories,15267
+268,Manufacture of communication equipment,15268
+269,Manufacture of consumer electronics,15269
+270,"Manufacture of radar equipment, radio remote control apparatus",15270
+271,Manufacture of electrical quantities measuring and controlling instruments,15271
+272,Manufacture of temperature measuring and controlling hygrometric instruments,15272
+273,Manufacture of flow of liquids or gases measuring and controlling instruments,15273
+274,"Manufacture of mechanical motion, measuring and controlling, timing and cycle instruments",15274
+275,Manufacture of industrial process control equipment,15275
+276,"Manufacture of professional and scientific and measuring and controlling equipment, n.e.c.",15276
+277,Manufacture of watches and clocks of all kinds including cases of precious metals,15277
+278,"Manufacture of other watch and clocks parts, n.e.c.",15278
+279,Manufacture of optical instruments and lenses,15279
+280,Manufacture of photographic equipment and accessories,15280
+281,Manufacture of magnetic and optical media,15281
+282,Manufacture of electric motors and generators,15282
+283,Manufacture of electrical transformers,15283
+284,Manufacture of switch gear and switchboard apparatus,15284
+285,Manufacture of electricity distribution equipment,15285
+286,"Manufacture of switches, fuses, sockets, plugs, conductors and lightning arresters and other control apparatus",15286
+287,Manufacture of accumulators (storage batteries) including parts,15287
+288,Manufacture of primary cells and batteries,15288
+289,Manufacture of fiber optic cables,15289
+290,Manufacture of other electronic and electric wires and cables,15290
+291,Manufacture of wiring devices,15291
+292,Manufacture of electric lamps fluorescent and fixtures,15292
+293,Manufacture of lighting equipment and parts except for use on cycle and motor equipment,15293
+294,Manufacture of motor vehicle lighting equipment,15294
+295,Manufacture of lighting sets used for christmas trees and the like,15295
+296,Manufacture of domestic electric fans,15296
+297,"Manufacture of domestic-type refrigerators and laundry equipment (e.g. clothes washers, washer-dryers, dryers)",15297
+298,"Manufacture of domestic cooking appliances (e.g. ovens, ranges, cookers, stoves, grillers, etc.)",15298
+299,"Manufacture of electrothermic domestic appliances (e.g. hair dressing appliances, electric instantaneous storage, heaters, flat-irons, plate warmers, coffee or teamakers)",15299
+300,Manufacture of domestic-type water filters and/or purifiers,15300
+301,"Manufacture of domestic appliances, n.e.c.",15301
+302,"Manufacture of battery chargers, solid state",15302
+303,Manufacture of uninterruptible power supplies (ups),15303
+304,"Manufacture of appliance cords, extension cords, and other electrical cord",15304
+305,"Manufacture of other electrical equipment, n.e.c.",15305
+306,Manufacture of internal combustion engines (gas and diesel),15306
+307,Manufacture of engines and turbines for marine propulsion,15307
+308,"Manufacture of parts of engines and turbines, except for aircraft, vehicle and cycle engines",15308
+309,Manufacture of fluid power equipment,15309
+310,"Manufacture of pumps for liquids, vacuum pumps, air or other gas compressors",15310
+311,"Manufacture of taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like",15311
+312,"Manufacture of bearings, gears and driving elements",15312
+313,"Manufacture of ovens, furnaces and furnace burners",15313
+314,"Manufacture of lifting and hoisting machinery, cranes, elevators , industrial trucks, tractors, stackers, specialized ports for lifting and handling equipment",15314
+315,"Manufacture of derricks, lifting and handling equipment for construction and mining",15315
+316,"Manufacture of other lifting and handling equipment, n.e.c.",15316
+317,"Manufacture of calculating machines, adding machines, cash registers, calculators",15317
+318,Manufacture of bills/coin counting and coin wrapping machinery,15318
+319,Manufacture of other of fice and accounting machineries,15319
+320,"Manufacture of other office machinery and equipment (except computers and peripheral equipment), n.e.c.",15320
+321,Manufacture of power-driven hand tools,15321
+322,Manufacture of weighing machines except scientific weighing apparatus used for laboratories,15322
+323,Manufacture of refrigerating or freezing equipment for commercial purposes,15323
+324,Manufacture of unit air-conditioners,15324
+325,Manufacture of packing and wrapping machinery,15325
+326,Manufacture of machinery for cleaning or drying bottles or other containers or for aerating beverages,15326
+327,"Manufacture of fans intended for industrial applications, exhaust hoods for commercial, laboratory or industrial use",15327
+328,"Manufacture of gas or electric welding, brazing or soldering machines",15328
+329,"Manufacture of other general-purpose machinery, n.e.c. (including manufacture of specialized parts for general purpose machinery and equipment)",15329
+330,Manufacture of farm tractors,15330
+331,Manufacture of mechanical implements for crop production,15331
+332,"Manufacture of agricultural and forestry machinery and equipment, n.e.c.",15332
+333,Manufacture of machine tools for working metal,15333
+334,Manufacture of machine tools and accessories including precision measuring tools,15334
+335,Parts and accessories for the machine tools classified in this group,15335
+336,"Manufacture of metal-forming machinery and machine tools, n.e.c.",15336
+337,Manufacture of machinery for metallurgy,15337
+338,Manufacture of heavy machinery and equipment used for mining and quarrying,15338
+339,Manufacture of heavy machinery and equipment used for construction,15339
+340,Manufacture of machinery for food processing,15340
+341,"Manufacture of presses, crushers and similar machinery used to make wine, cider, fruit juices or similar beverages",15341
+342,Manufacture of textile machinery,15342
+343,"Manufacture of washing, laundry, dry-cleaning and pressing machines",15343
+344,"Manufacture of needles for knitting, sewing machines",15344
+345,"Manufacture of machinery for pulp, paper and paperboard industries",15345
+346,Manufacture of machinery for working rubber or plastic or for the manufacture of products of these materials,15346
+347,Manufacture of printing-trade machinery and equipment,15347
+348,"Manufacture of machinery for producing tiles, bricks, shaped ceramic",15348
+349,"Manufacture of other special-purpose machinery, n.e.c.",15349
+350,Manufacture of motor vehicles,15350
+351,Manufacture of bodies (coachwork) for motor vehicles,15351
+352,Manufacture of trailers and semi-trailers,15352
+353,Manufacture of electric ignition or starting equipment for internal combustion engines,15353
+354,Manufacture of parts and accessories for motor vehicles and their engines,15354
+355,Building of ships and boats other than sports and pleasure boats,15355
+356,Manufacture of metal sections for ships and barges,15356
+357,"Manufacture of other pleasure and sporting boats, n.e.c.",15357
+358,Manufacture of air and spacecraft and related machinery,15358
+359,Manufacture and assembly of motorcycles,15359
+360,Manufacture of motorcycle engines and parts thereof,15360
+361,Manufacture of tricycles and parts thereof,15361
+362,Manufacture of side cars,15362
+363,Manufacture of parts and accessories of motorcycles,15363
+364,Manufacture of bicycles and bicycle parts,15364
+365,"Manufacture of invalid carriages, motorized and non-motorized",15365
+366,Manufacture of hand-propelled vehicles,15366
+367,Manufacture of wood furniture,15367
+368,"Manufacture of rattan furniture (reed, wicker, and cane)",15368
+369,Manufacture of box beds and mattresses,15369
+370,"Manufacture of partitions, shelves, lockers and office and store fixtures",15370
+371,Manufacture of plastic furniture,15371
+372,Manufacture of furniture and fixtures of metal,15372
+373,"Manufacture of other furniture and fixtures, n.e.c.",15373
+374,Manufacture of jewelry made of precious and semi-precious stones,15374
+375,Manufacture of silverware and plated ware,15375
+376,Manufacture of articles related to jewelry,15376
+377,Manufacture of imitation of jewelry and related articles,15377
+378,Manufacture of guitars,15378
+379,Manufacture of wind and percussion instruments,15379
+380,Manufacture of musical instrument parts and accessories,15380
+381,Manufacture of sporting gloves and mitts,15381
+382,Manufacture of sporting balls,15382
+383,"Manufacture of sporting and athletic goods, n.e.c.",15383
+384,Manufacture of dolls and doll garments,15384
+385,Manufacture of wheeled toys,15385
+386,"Manufacture of electronic games (video games, checkers)",15386
+387,"Manufacture of toys and games, n.e.c.",15387
+388,"Manufacture of medical, surgical, dental furniture and fixtures",15388
+389,"Manufacture of ophthalmic goods, eyeglasses, sunglasses, lenses ground to prescription, contact lenses, safety goggles",15389
+390,"Manufacture of prosthetic appliances, artificial teeth made to order",15390
+391,Manufacture of medical and precision instruments,15391
+392,"Manufacture of other medical and dental instruments and supplies, n.e.c.",15392
+393,Manufacture of pens and pencils of all kinds,15393
+394,"Manufacture of umbrellas, walking sticks, canes, whips and riding crops",15394
+395,"Manufacture of articles for personal use, e.g. smoking pipes, combs, slides and similar articles",15395
+396,Manufacture of candles,15396
+397,"Manufacture of artificial flowers, fruits and foliage",15397
+398,Manufacture of wooden coffin,15398
+399,Manufacture of metal coffin,15399
+400,"Manufacture of buttons, except plastic",15400
+401,"Manufacture of brooms, brushes and fans",15401
+402,"Manufacture of identification plates, badges, emblems and tags",15402
+403,Manufacture of signs and advertising displays,15403
+404,Manufacture of cigarette lighters,15404
+405,"Manufacture of miscellaneous articles, n.e.c.",15405
+406,Repair of fabricated metal products,15406
+407,Repair of machinery,15407
+408,Repair of electronic and optical equipment,15408
+409,Repair of electrical equipment,15409
+410,Repairing of ships and boats other than sports and pleasure boats,15410
+411,Repairing of sports and pleasure boats,15411
+412,"Repair of transport equipment, except motor vehicles, n.e.c.",15412
+413,Repair of other equipmen t,15413
+414,Installation of industrial machinery and equipment,15414
+415,Slaughtering and meat packing,161
+416,Production processing and preserving of meat and meat products,162
+417,Canning/packing of fish and other marine products,163
+418,Drying of fish and other marine products,164
+419,Smoking of fish and other marine products,165
+420,Manufacture of fish paste (bagoong) and fish sauce(patis),166
+421,Processing of seaweeds; manufacture of agar-agar or carageenan,167
+422,Production of fishmeal/prawn feeds,168
+423,"Manufacture of unprepared animal feeds from fish, crustaceans and mollusks and other aquatic animals",169
+424,"Processing, preserving and canning of fish, crustacean and mollusks, n.e.c. manufacture of fishball, etc.",1610
+425,Canning/packing and preserving of fruits and fruit juices,1611
+426,Canning/packing and preserving of vegetables and vegetable juices,1612
+427,Manufacture of fruit and vegetable sauces (e.g. tomato sauce and paste),1613
+428,Quick-freezing of fruits and vegetables,1614
+429,Roasting of nut or manufacture of nut foods and pastes,1615
+430,"Manufacture of perishable prepared foods of fruit and vegetables, such as: salad, peeled or cut vegetables, tofu (bean curd)",1616
+431,"Processing and preserving of fruits and vegetables, n.e.c.",1617
+432,Manufacture of virgin coconut oil,1618
+433,Manufacture of desiccated coconut,1619
+434,Manufacture of nata de coco,1620
+435,"Production of crude vegetable oil, cake and meals, other than virgin coconut oil (see class 1041)",1621
+436,Manufacture of refined coconut and other vegetable oil (including corn oil) and margarine,1622
+437,"Manufacture of unprepared animal feeds from vegetable, animal oils and fats",1623
+438,"Manufacture of vegetable and animal oil and fats, n.e.c.",1624
+439,Processing of fresh milk and cream,1625
+440,"Manufacture of powdered milk (except for infants) and condensed or evaporated milk (filled, combined or reconstituted)",1626
+441,Manufacture of infants' powdered milk,1627
+442,"Manufacture of butter, cheese and curd",1628
+443,"Manufacture of ice cream and sherbet, ice drop, ice candy and other flavored ices",1629
+444,Manufacture of milk-based infants' and dietetic foods,1630
+445,"Manufacture of dairy products, n.e.c.",1631
+446,Rice/corn milling,1632
+447,Cassava flour milling,1633
+448,Flour milling except cassava flour milling,1634
+449,"Manufacture of cereal breakfast foods obtained by roasting or swelling, etc.",1635
+450,Manufacture of unprepared animal feeds from grain milling residues,1636
+451,"Manufacture of flour mixes and prepared blended flour and dough for bread, cakes, biscuits or pancakes",1637
+452,"Manufacture of grain and vegetable mill products, n.e.c.",1638
+453,Manufacture of starches and starch products,1639
+454,"Baking of bread, cakes, pastries, pies and similar 'perishable' bakery products, including hopia and doughnut making",1640
+455,"Baking of biscuits cookies, crackers, pretzels and similar dry bakery products",1641
+456,Manufacture of ice cream cones (apa) and wafers (barquillos),1642
+457,"Manufacture of snack products such as corn curls, wheat crunchies and similar products",1643
+458,Sugarcane milling,1644
+459,Sugar refining,1645
+460,Manufacture of muscovado sugar not carried on in the farm,1646
+461,"Manufacture of sugar, n.e.c.",1647
+462,Manufacture of chocolate and cocoa products including chocolate candies,1648
+463,Manufacture of candies (excluding chocolate candies) and chewing gum,1649
+464,Manufacture of popcorn and poprice,1650
+465,"Manufacture of chocolate and sugar confectionery products, n.e.c.",1651
+466,"Manufacture of macaroni, noodles, couscous and similar farinaceous products",1652
+467,Manufacture of prepared meals and dishes,1653
+468,Manufacture of food supplements from herbs and other plants,1654
+469,Coffee roasting and processing,1655
+470,"Manufacture of herb from drying and further extraction ( e.g. banaba, ampalaya, moringa (malunggay), sambong, lagundi etc.)",1656
+471,"Manufacture of ice, except dry ice",1657
+472,Manufacture of infant or dietetic foods containing homogenized ingredients,1658
+473,Egg processing including fertilized egg (balut) and salted eggs,1659
+474,Manufacture of flavoring extracts and food coloring,1660
+475,"Manufacture of mayonnaise, salad dressing, sandwich spread and similar products",1661
+476,Manufacture of vinegar,1662
+477,"Manufacture of food products, n.e.c.",1663
+478,Manufacture of prepared animal feeds,1664
+479,"Distilling, rectifying and blending of spirits",1665
+480,Fruit wine manufacturing,1666
+481,"Wine manufacturing, n.e.c.",1667
+482,Manufacture of malt liquors and malt,1668
+483,"Manufacture of soft drinks except drinks flavored with fruit juices, syrups or other materials",1669
+484,"Manufacture of drinks flavored with fruit juices, syrups or other materials",1670
+485,Manufacture of bottled water,1671
+486,Manufacture of sports and energy drink,1672
+487,"Manufacture of other beverages, n.e.c.",1673
+488,Manufacture of cigarettes,1674
+489,Manufacture of cigars,1675
+490,"Manufacture of chewing and smoking tobacco, snuff",1676
+491,Curing and redrying tobacco leaves,1677
+492,Spinning,1678
+493,Weaving of textiles,1679
+494,Finishing of textiles,1680
+495,Preparation and finishing of textiles (integrated),1681
+496,Manufacture of knitted and crocheted fabrics,1682
+497,Manufacture of textile industrial bags,1683
+498,Manufacture of made-up textile goods for house furnishings,1684
+499,Manufacture of canvas products,1685
+500,"Manufacture of made-up textile articles, except wearing apparel, n.e.c.",1686
+501,"Manufacture of carpets and rugs, except mats of textile materials",1687
+502,Manufacture of mats (including mattings) of textile materials,1688
+503,"Manufacture of cordage, rope, and twine",1689
+504,"Manufacture of fishing nets and other nettings, (excluding mosquito and hairnets)",1690
+505,"Manufacture of products of cordage, rope and twine products",1691
+506,Manufacture of embroidered fabrics,1692
+507,"Manufacture of narrow fabrics, laces, tulles and other net fabrics",1693
+508,"Manufacture of fabrics, impregnated, coated, covered or laminated with plastic",1694
+509,"Manufacture of fabrics, impregnated, coated, covered or laminated other than with plastic and rubber",1695
+510,"Manufacture of fiber batting, padding and upholstery filling including coir",1696
+511,"Manufacture of miscellaneous textiles, n.e.c.",1697
+512,Men's and boys' garment manufacturing,1698
+513,Women's and girls' and babies' garment manufacturing,1699
+514,Ready-made embroidered garments manufacturing,16100
+515,"Manufacture of hats, gloves, handkerchiefs, neckwear and belts regardless of material",16101
+516,"Manufacture of wearing apparel, n.e.c",16102
+517,Custom tailoring,16103
+518,Custom dressmaking,16104
+519,Manufacture of knitted and crocheted apparel,16105
+520,"Manufacture of knitted or crocheted hosiery, underwear and outerwear when knitted or crocheted directly into shape",16106
+521,"Manufacture of knitted and crocheted articles, n.e.c.",16107
+522,Tanning and dressing of leather,16108
+523,"Manufacture of luggage, handbags and wallets of leather and imitation leather",16109
+524,"Manufacture of products of leather and imitation leather, n.e.c.",16110
+525,Manufacture of leather shoes,16111
+526,Manufacture of rubber shoes,16112
+527,Manufacture of plastic shoes,16113
+528,Manufacture of shoes made of textile materials with applied soles,16114
+529,Manufacture of wooden footwear and accessories,16115
+530,Manufacture of rubber slippers,16116
+531,"Manufacture of slippers and sandals, other than rubber",16117
+532,Manufacture of leather parts of footwear,16118
+533,"Manufacture of other footwear, n.e.c.",16119
+534,Manufacture of rough lumber,16120
+535,Manufacture of worked lumber,16121
+536,Wood preserving and drying,16122
+537,"Sawmilling and planing of wood products, n.e.c.",16123
+538,Manufacture of veneer sheets and plywood,16124
+539,"Manufacture of laminboard, particle board and other panels and board",16125
+540,"Manufacture of wooden window and door screens, shades and venetian blinds",16126
+541,Manufacture of other builders' carpentry and joinery; millworking,16127
+542,Manufacture of wooden containers,16128
+543,Manufacture of wood carvings,16129
+544,Manufacture of charcoal outside the forest,16130
+545,Manufacture of wooden wares,16131
+546,Manufacture of rattan and cane containers,16132
+547,"Manufacture of sawali, nipa and split canes",16133
+548,Manufacture of small cane wares,16134
+549,"Manufacture other products of bamboo, cane, rattan and the like, and plaiting materials except furniture, n.e.c.",16135
+550,"Manufacture of other products of wood; manufacture of articles of cork and plaiting materials, except furniture, n.e.c.",16136
+551,"Integrated pulp, paper and paperboard milling",16137
+552,Pulp milling,16138
+553,Paper and paperboard milling,16139
+554,Manufacture of hand-made paper,16140
+555,"Manufacture of pulp, paper and paperboard, n.e.c.",16141
+556,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard,16142
+557,Manufacture of household and personal hygiene paper and cellulose wadding products,16143
+558,"Manufacture of wadding of textile materials and articles of wadding (e.g. sanitary towels, tampons, etc.)",16144
+559,Manufacture of other articles of paper,16145
+560,Manufacture of other articles of paperboard,16146
+561,Printing,16147
+562,"Electrotyping, stereotyping and photoengraving",16148
+563,Bookbinding and related work,16149
+564,"Service activities related to printing, n.e.c.",16150
+565,Reproduction of video and computer tapes from mastercopies,16151
+566,Manufacture of refined petroleum products,16152
+567,Manufacture of other fuel products,16153
+568,Manufacture of ethanol,16154
+569,Manufacture of industrial (compressed and liquefied) gases,16155
+570,Manufacture of inorganic salts and compounds,16156
+571,Manufacture of ethyl alcohol,16157
+572,Manufacture of alcohol except ethyl/ethanol,16158
+573,"Manufacture of inorganic acids, alkalis and chlorine",16159
+574,Manufacture of organic acids and organic compounds,16160
+575,"Manufacture of basic chemicals, except fertilizers and nitrogen compounds, n.e.c.",16161
+576,Manufacture of fertilizers and nitrogen compounds,16162
+577,Manufacture of plastic synthetic resins,16163
+578,Manufacture of plastic materials except man-made fiber and glass fiber,16164
+579,Manufacture of pesticides and other agro-chemical products,16165
+580,Manufacture of paints,16166
+581,"Manufacture of varnishes, lacquers, shellac and stains",16167
+582,"Manufacture of paint removers, thinners, and brush cleaners",16168
+583,Manufacture of pigments and other coloring matter of a kind used in the manufacture of paints or by artists or other painters,16169
+584,Manufacture of printing ink,16170
+585,"Manufacture of paint products, n.e.c.",16171
+586,Manufacture of soap and detergents,16172
+587,"Manufacture of cleaning preparations, except soap and detergents",16173
+588,Manufacture of waxes and polishing preparations,16174
+589,"Manufacture of perfumes, cosmetics and other toilet preparations",16175
+590,"Manufacture of explosives, fireworks and firecrackers",16176
+591,Manufacture of matches,16177
+592,Manufacture of writing and drawing ink,16178
+593,Manufacture of glues and adhesives,16179
+594,Manufacture of activated carbon,16180
+595,"Manufacture of miscellaneous chemical products, n.e.c.",16181
+596,Manufacture of synthetic or artificial filament yarn,16182
+597,"Manufacture of drugs and medicines including biological products such as bacterial and virus vaccines, sera and plasma",16183
+598,"Manufacture of surgical dressings, medicated wadding , fracture bandages, catgut, and other prepared sutures",16184
+599,Manufacture of rubber tires (including parts) and tubes,16185
+600,Retreading and rebuilding of tires,16186
+601,Manufacture of rubber garments,16187
+602,"Manufacture of industrial and other molded rubber products, excluding tires and tubes",16188
+603,"Manufacture of other rubber products, n.e.c.",16189
+604,"Manufacture of plastic articles for packing goods (e.g. boxes, bags, sacks, etc.)",16190
+605,Manufacture of plastic household wares,16191
+606,Manufacture of plastic furniture fittings,16192
+607,Manufacture of plastic pipes and tubes,16193
+608,"Manufacture of other plastic, industrial /office/school supplies",16194
+609,"Manufacture of primary plastic products (e.g. sheets, film, plates, etc.)",16195
+610,Manufacture of linoleum and hard surface floor coverings,16196
+611,"Manufacture of plastic window and door screen, shades and venetian blinds",16197
+612,"Manufacture of plastic products, n.e.c.",16198
+613,Manufacture of flat glass (including float glass),16199
+614,Manufacture of glass containers,16200
+615,Manufacture of glass fibers (including glass wool) and yarn of glass fibers,16201
+616,"Manufacture of glass and glass products, n.e.c.",16202
+617,Manufacture of refractory products,16203
+618,Manufacture of clay building materials,16204
+619,Manufacture of vitreous china tableware and other kitchen articles of a kind commonly used for domestic or toilet purposes,16205
+620,"Manufacture of articles of porcelain or china, stoneware, earthenware, imitation porcelain or common pottery",16206
+621,Manufacture of coarse clay products,16207
+622,"Manufacture of sanitary ware, vitreous china plumbing fittings and fixtures",16208
+623,"Manufacture of other porcelain and ceramic products, n.e.c.",16209
+624,Manufacture of cement,16210
+625,Manufacture of lime,16211
+626,Manufacture of structural concrete products,16212
+627,"Manufacture of articles of concrete, cement and plaster, n.e.c.",16213
+628,"Cutting, shaping and finishing of stone",16214
+629,Manufacture of asphalt products,16215
+630,Manufacture of asbestos products,16216
+631,Manufacture of marble products,16217
+632,Manufacture of abrasive products,16218
+633,"Manufacture of miscellaneous non-metallic mineral products, n.e.c.",16219
+634,Operation of blast furnaces and steel making furnaces,16220
+635,Operation of rolling mills,16221
+636,"Pipes and tubes manufacturing, iron or steel",16222
+637,Manufacture of pipe fittings of iron or steel,16223
+638,"Manufacture of galvanized steel sheets, tinplates and other coated metal products made in steel works or rolling mills",16224
+639,"Operation of steel works and rolling mills, n.e.c.",16225
+640,Gold and other precious metal refining,16226
+641,"Non-ferrous smelting and refining , except precious metals",16227
+642,"Non-ferrous rolling, drawing and extrusion mills",16228
+643,Manufacture of pipe fittings of non-ferrous metals,16229
+644,"Manufacture of basic precious and other non-ferrous metals, n.e.c.",16230
+645,Casting/foundry of iron,16231
+646,Casting/foundry of steel,16232
+647,Aluminum and aluminum base alloy casting,16233
+648,"Copper and copper base alloy (brass, bronze) casting",16234
+649,Zinc and zinc alloy casting,16235
+650,"Casting of non-ferrous metal, n.e.c.",16236
+651,"Manufacture of structural steel products and metal components of bridges, smoke stacks and buildings",16237
+652,"Manufacture of other architectural and related metal work (e.g., doors, windows, shutters, gates, etc.)",16238
+653,"Manufacture of structural metal products, n.e.c.",16239
+654,"Manufacture of tanks, reservoirs and containers of metal",16240
+655,"Manufacture of steam generators, except central heating hot water boilers",16241
+656,Manufacture of small arms and accessories,16242
+657,"Manufacture of weapons and ammunitions, n.e.c.",16243
+658,"Forging, pressing, stamping and roll-forming of metal products",16244
+659,Powder metallurgy,16245
+660,Treatment and coating of metals; machining,16246
+661,Manufacture of cutlery,16247
+662,Manufacture of hand tools,16248
+663,Manufacture of general hardware,16249
+664,Manufacture of blacksmithing tools and welding shop operation,16250
+665,Manufacture of molding boxes for metal foundry,16251
+666,Manufacture of metal containers used for the packing or conveyance of goods,16252
+667,"Manufacture of wire nails, not in steel rolling",16253
+668,Manufacture of fabricated wire products,16254
+669,Manufacture of small hand-operated kitchen appliances,16255
+670,Manufacture of metal sanitary ware and plumbing fixtures,16256
+671,"Manufacture of needles (except for knitting and sewing machines), pins and fasteners including zippers",16257
+672,"Manufacture of aluminum window and door screens, shades and venetian blinds",16258
+673,"Manufacture of miscellaneous fabricated metal products, n.e.c.",16259
+674,Manufacture of electronic valves and tubes,16260
+675,Manufacture of semi-conductor devices and other electronic components,16261
+676,Manufacture of computers and peripheral equipment and accessories,16262
+677,Manufacture of communication equipment,16263
+678,Manufacture of consumer electronics,16264
+679,"Manufacture of radar equipment, radio remote control apparatus",16265
+680,Manufacture of electrical quantities measuring and controlling instruments,16266
+681,Manufacture of temperature measuring and controlling hygrometric instruments,16267
+682,Manufacture of flow of liquids or gases measuring and controlling instruments,16268
+683,"Manufacture of mechanical motion, measuring and controlling, timing and cycle instruments",16269
+684,Manufacture of industrial process control equipment,16270
+685,"Manufacture of professional and scientific and measuring and controlling equipment, n.e.c.",16271
+686,Manufacture of watches and clocks of all kinds including cases of precious metals,16272
+687,"Manufacture of other watch and clocks parts, n.e.c.",16273
+688,Manufacture of optical instruments and lenses,16274
+689,Manufacture of photographic equipment and accessories,16275
+690,Manufacture of magnetic and optical media,16276
+691,Manufacture of electric motors and generators,16277
+692,Manufacture of electrical transformers,16278
+693,Manufacture of electric generating sets,16279
+694,Manufacture of switch gear and switchboard apparatus,16280
+695,Manufacture of electricity distribution equipment,16281
+696,"Manufacture of switches, fuses, sockets, plugs, conductors and lightning arresters and other control apparatus",16282
+697,Manufacture of accumulators (storage batteries) including parts,16283
+698,Manufacture of primary cells and batteries,16284
+699,Manufacture of fiber optic cables,16285
+700,Manufacture of other electronic and electric wires and cables,16286
+701,Manufacture of wiring devices,16287
+702,Manufacture of electric lamps fluorescent and fixtures,16288
+703,Manufacture of lighting equipment and parts except for use on cycle and motor equipment,16289
+704,Manufacture of motor vehicle lighting equipment,16290
+705,Manufacture of lighting sets used for christmas trees and the like,16291
+706,Manufacture of domestic electric fans,16292
+707,"Manufacture of domestic-type refrigerators and laundry equipment (e.g. clothes washers, washer-dryers, dryers)",16293
+708,"Manufacture of domestic cooking appliances (e.g. ovens, ranges, cookers, stoves, grillers, etc.)",16294
+709,"Manufacture of electrothermic domestic appliances (e.g. hair dressing appliances, electric instantaneous storage, heaters, flat-irons, plate warmers, coffee or teamakers)",16295
+710,Manufacture of domestic-type water filters and/or purifiers,16296
+711,"Manufacture of domestic appliances, n.e.c.",16297
+712,"Manufacture of battery chargers, solid state",16298
+713,Manufacture of uninterruptible power supplies (ups),16299
+714,"Manufacture of appliance cords, extension cords, and other electrical cord",16300
+715,Manufacture of electrical signalling equipment such as traffic lights and pedestrical signalling equipment,16301
+716,"Manufacture of other electrical equipment, n.e.c.",16302
+717,Manufacture of internal combustion engines (gas and diesel),16303
+718,Manufacture of engines and turbines for marine propulsion,16304
+719,"Manufacture of parts of engines and turbines, except for aircraft, vehicle and cycle engines",16305
+720,Manufacture of fluid power equipment,16306
+721,"Manufacture of pumps for liquids, vacuum pumps, air or other gas compressors",16307
+722,"Manufacture of taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like",16308
+723,"Manufacture of bearings, gears and driving elements",16309
+724,"Manufacture of lifting and hoisting machinery, cranes, elevators , industrial trucks, tractors, stackers, specialized ports for lifting and handling equipment",16310
+725,"Manufacture of derricks, lifting and handling equipment for construction and mining",16311
+726,"Manufacture of other lifting and handling equipment, n.e.c.",16312
+727,"Manufacture of calculating machines, adding machines, cash registers, calculators",16313
+728,Manufacture of bills/coin counting and coin wrapping machinery,16314
+729,Manufacture of other office and accounting machineries,16315
+730,"Manufacture of other office machinery and equipment (except computers and peripheral equipment), n.e.c.",16316
+731,Manufacture of power-driven hand tools,16317
+732,Manufacture of weighing machines except scientific weighing apparatus used for laboratories,16318
+733,Manufacture of refrigerating or freezing equipment for commercial purposes,16319
+734,Manufacture of unit air-conditioners,16320
+735,Manufacture of packing and wrapping machinery,16321
+736,Manufacture of machinery for cleaning or drying bottles or other containers or for aerating beverages,16322
+737,"Manufacture of fans intended for industrial applications, exhaust hoods for commercial, laboratory or industrial use",16323
+738,"Manufacture of gas or electric welding, brazing or soldering machines",16324
+739,"Manufacture of other general-purpose machinery, n.e.c. (including manufacture of specialized parts for general purpose machinery and equipment)",16325
+740,Manufacture of farm tractors,16326
+741,Manufacture of mechanical implements for crop production,16327
+742,"Manufacture of agricultural and forestry machinery and equipment, n.e.c.",16328
+743,Manufacture of machine tools for working metal,16329
+744,Manufacture of machine tools and accessories including precision measuring tools,16330
+745,Parts and accessories for the machine tools classified in this group,16331
+746,"Manufacture of metal-forming machinery and machine tools, n.e.c.",16332
+747,Manufacture of machinery for metallurgy,16333
+748,Manufacture of heavy machinery and equipment used for mining and quarrying,16334
+749,Manufacture of machinery for food processing,16335
+750,"Manufacture of presses, crushers and similar machinery used to make wine, cider, fruit juices or similar beverages",16336
+751,"Manufacture of machinery for the preparation of tobacco and for the making of cigarettes or cigars, or pipe or chewing tobacco or snuff",16337
+752,Manufacture of textile machinery,16338
+753,"Manufacture of washing, laundry, dry-cleaning and pressing machines",16339
+754,"Manufacture of needles for knitting, sewing machines",16340
+755,"Manufacture of machinery for textile apparel and leather production, n.e.c.",16341
+756,"Manufacture of machinery for pulp, paper and paperboard industries",16342
+757,Manufacture of machinery for working rubber or plastic or for the manufacture of products of these materials,16343
+758,Manufacture of printing-trade machinery and equipment,16344
+759,"Manufacture of other special-purpose machinery, n.e.c.",16345
+760,Manufacture of motor vehicles,16346
+761,Manufacture of bodies (coachwork) for motor vehicles,16347
+762,Manufacture of trailers and semi-trailers,16348
+763,Manufacture of electric ignition or starting equipment for internal combustion engines,16349
+764,Manufacture of parts and accessories for motor vehicles and their engines,16350
+765,Building of ships and boats other than sports and pleasure boats,16351
+766,Manufacture of inflatable rafts,16352
+767,Manufacture of metal sections for ships and barges,16353
+768,Manufacture of inflatable boats,16354
+769,"Manufacture of other pleasure and sporting boats, n.e.c.",16355
+770,Manufacture of air and spacecraft and related machinery,16356
+771,Manufacture and assembly of motorcycles,16357
+772,Manufacture of motorcycle engines and parts thereof,16358
+773,Manufacture of tricycles and parts thereof,16359
+774,Manufacture of side cars,16360
+775,Manufacture of parts and accessories of motorcycles,16361
+776,Manufacture of bicycles and bicycle parts,16362
+777,"Manufacture of invalid carriages, motorized and non-motorized",16363
+778,Manufacture of hand-propelled vehicles,16364
+779,Manufacture of wood furniture,16365
+780,"Manufacture of rattan furniture (reed, wicker, and cane)",16366
+781,Manufacture of box beds and mattresses,16367
+782,"Manufacture of partitions, shelves, lockers and office and store fixtures",16368
+783,Manufacture of plastic furniture,16369
+784,Manufacture of furniture and fixtures of metal,16370
+785,"Manufacture of other furniture and fixtures, n.e.c.",16371
+786,Manufacture of jewelry made of precious and semi-precious stones,16372
+787,Manufacture of silverware and plated ware,16373
+788,Manufacture of watchbands and bracelets of precious metals,16374
+789,Manufacture of articles related to jewelry,16375
+790,Manufacture of imitation of jewelry and related articles,16376
+791,Manufacture of guitars,16377
+792,Manufacture of musical instrument parts and accessories,16378
+793,Manufacture of sporting gloves and mitts,16379
+794,Manufacture of sporting balls,16380
+795,"Manufacture of sporting and athletic goods, n.e.c.",16381
+796,Manufacture of dolls and doll garments,16382
+797,Manufacture of wheeled toys,16383
+798,"Manufacture of electronic games (video games, checkers)",16384
+799,"Manufacture of toys and games, n.e.c.",16385
+800,"Manufacture of medical, surgical, dental furniture and fixtures",16386
+801,"Manufacture of ophthalmic goods, eyeglasses, sunglasses, lenses ground to prescription, contact lenses, safety goggles",16387
+802,"Manufacture of prosthetic appliances, artificial teeth made to order",16388
+803,Manufacture of medical and precision instruments,16389
+804,"Manufacture of other medical and dental instruments and supplies, n.e.c.",16390
+805,Manufacture of pens and pencils of all kinds,16391
+806,"Manufacture of umbrellas, walking sticks, canes, whips and riding crops",16392
+807,"Manufacture of articles for personal use, e.g. smoking pipes, combs, slides and similar articles",16393
+808,Manufacture of candles,16394
+809,"Manufacture of artificial flowers, fruits and foliage",16395
+810,Manufacture of wooden coffin,16396
+811,Manufacture of metal coffin,16397
+812,"Manufacture of buttons, except plastic",16398
+813,"Manufacture of brooms, brushes and fans",16399
+814,"Manufacture of identification plates, badges, emblems and tags",16400
+815,Manufacture of signs and advertising displays,16401
+816,Manufacture of cigarette lighters,16402
+817,"Manufacture of miscellaneous articles, n.e.c.",16403
+818,Repair of fabricated metal products,16404
+819,Repair of machinery,16405
+820,Repair of electronic and optical equipment,16406
+821,Repair of electrical equipment,16407
+822,Repairing of ships and boats other than sports and pleasure boats,16408
+823,Repairing of sports and pleasure boats,16409
+824,"Repair of transport equipment, except motor vehicles, n.e.c.",16410
+825,Repair of other equipment,16411
+826,Installation of industrial machinery and equipment,16412
+827,Processing and preserving of meat,171
+828,"Processing and preserving of fish, crustaceans and mollusks",172
+829,Processing and preserving of fruits and vegetables,173
+830,Manufacture of vegetable and animal oils and fats,174
+831,Manufacture of dairy products,175
+832,"Manufacture of grain mill products, starches and starch products",176
+833,Manufacture of other food products,177
+834,Manufacture of prepared animal feeds,178
+835,Manufacture of beverages,179
+836,Manufacture of tobacco products,1710
+837,"Spinning, weaving and finishing of textiles",1711
+838,Manufacture of other textiles,1712
+839,"Manufacture of wearing apparel, except fur apparel",1713
+840,Custom tailoring and dressmaking,1714
+841,Manufacture of knitted and crocheted apparel,1715
+842,Tanning and dressing of leather; manufacture of luggage and handbags,1716
+843,Manufacture of footwear,1717
+844,Sawmilling and planing of wood,1718
+845,"Manufacture of products of wood, cork, straw and plaiting materials",1719
+846,Manufacture of paper and paper products,1720
+847,Printing and service activities related to printing,1721
+848,Reproduction of recorded media,1722
+849,Manufacture of refined petroleum products,1723
+850,Manufacture of other fuel products,1724
+851,Manufacture of basic chemicals,1725
+852,"Manufacture of other chemical products, n.e.c.",1726
+853,Manufacture of man-made fibers,1727
+854,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",1728
+855,Manufacture of rubber products,1729
+856,Manufacture of plastics products,1730
+857,Manufacture of glass and glass products,1731
+858,"Manufacture of non-metallic mineral products, n.e.c.",1732
+859,Manufacture of basic iron and steel,1733
+860,Manufacture of basic precious and other non-ferrous metals,1734
+861,Casting of metals,1735
+862,"Manufacture of structural metal products, tanks, reservoirs and steam generators",1736
+863,Manufacture of weapons and ammunition,1737
+864,Manufacture of other fabricated metal products; metal working service activities,1738
+865,Manufacture of electronic components,1739
+866,Manufacture of computers and peripheral equipment and accessories,1740
+867,Manufacture of communication equipment,1741
+868,Manufacture of consumer electronics,1742
+869,"Manufacture of measuring, testing, navigating and control equipment; watches and clocks",1743
+870,Manufacture of optical instruments and photographic equipment,1744
+871,"Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus",1745
+872,Manufacture of batteries and accumulators,1746
+873,Manufacture of wiring and wiring devices,1747
+874,Manufacture of electric lighting equipment,1748
+875,Manufacture of domestic appliances,1749
+876,Manufacture of other electrical equipment,1750
+877,Manufacture of general purpose machinery,1751
+878,Manufacture of special purpose machinery,1752
+879,Manufacture of motor vehicles,1753
+880,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers,1754
+881,Manufacture of parts and accessories for motor vehicles,1755
+882,Building of ships and boats,1756
+883,Manufacture of air and spacecraft and related machinery,1757
+884,"Manufacture of transport equipment, n.e.c.",1758
+885,Manufacture of furniture,1759
+886,"Manufacture of jewelry, bijouterie and related articles",1760
+887,Manufacture of musical instruments,1761
+888,Manufacture of sports goods,1762
+889,Manufacture of games and toys,1763
+890,Manufacture of medical and dental instruments and supplies,1764
+891,"Other manufacturing, n.e.c.",1765
+892,"Repair of fabricated metal products, machinery and equipment",1766
+893,Installation of industrial machinery and equipment,1767
